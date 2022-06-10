@@ -1,0 +1,2 @@
+This is a technique I designed to obtain the optimal cluster in the kmeans agorithm in an analytical way. It is mainly based on Lagrange interpolation, derivation and Elbow. The article also talks about the importance of numerical analysis, approximation theory and numerical methods (on which I rely).
+Finally I designed a class in python which brings all this together, in a new method which I call Elbow-Lagrange.
